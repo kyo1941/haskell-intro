@@ -9,6 +9,7 @@
 3. [03 Haskell のファイル、書き方、実行方法](./03-files-and-running.md)
 4. [04 学び方と最初の練習](./04-learning-plan.md)
 5. [05 レッスン 1: 値、型、関数](./05-lesson01-values.md)
+6. [06 レッスン 2: Bool と if then else](./06-lesson02-conditions.md)
 
 ## このプロジェクトの現在地
 
