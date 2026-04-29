@@ -1,0 +1,4 @@
+interface:
+  display_name: "Haskell Learning Coach"
+  short_description: "Guide Haskell lessons in this repo"
+  default_prompt: "Use $haskell-learning-coach to continue my Haskell lesson in this repository."
