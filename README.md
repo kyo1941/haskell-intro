@@ -34,6 +34,12 @@ cabal run lesson02-conditions
 レッスン 2 のサンプルを実行します。
 
 ```sh
+cabal run lesson03-lists
+```
+
+レッスン 3 のサンプルを実行します。
+
+```sh
 cabal repl
 ```
 

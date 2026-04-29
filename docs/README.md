@@ -10,6 +10,7 @@
 4. [04 学び方と最初の練習](./04-learning-plan.md)
 5. [05 レッスン 1: 値、型、関数](./05-lesson01-values.md)
 6. [06 レッスン 2: Bool と if then else](./06-lesson02-conditions.md)
+7. [07 レッスン 3: リスト、map、filter](./07-lesson03-lists.md)
 
 ## このプロジェクトの現在地
 
