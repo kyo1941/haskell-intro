@@ -1,0 +1,16 @@
+# Cabal build output
+dist-newstyle/
+
+# GHC build artifacts from direct `ghc` usage
+*.hi
+*.o
+*.dyn_hi
+*.dyn_o
+
+# Local Cabal/GHC environment files
+.ghc.environment.*
+cabal.project.local
+cabal.project.local~
+
+# macOS
+.DS_Store

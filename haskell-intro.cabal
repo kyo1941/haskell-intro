@@ -1,0 +1,19 @@
+cabal-version:   3.14
+name:            haskell-intro
+version:         0.1.0.0
+synopsis:        Small Haskell project for learning the basics
+license:         NONE
+author:          kyo1941
+maintainer:      kyo1941@outlook.jp
+build-type:      Simple
+extra-doc-files: CHANGELOG.md
+
+common warnings
+    ghc-options: -Wall
+
+executable haskell-intro
+    import:           warnings
+    main-is:          Main.hs
+    build-depends:    base ^>=4.18.3.0
+    hs-source-dirs:   app
+    default-language: Haskell2010
