@@ -22,6 +22,12 @@ cabal run
 プログラムをビルドして実行します。
 
 ```sh
+cabal run lesson01-values
+```
+
+レッスン 1 のサンプルを実行します。
+
+```sh
 cabal repl
 ```
 
