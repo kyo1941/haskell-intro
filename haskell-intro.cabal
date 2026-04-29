@@ -24,3 +24,10 @@ executable lesson01-values
     build-depends:    base ^>=4.18.3.0
     hs-source-dirs:   app/lesson01-values
     default-language: Haskell2010
+
+executable lesson01-values-exercises
+    import:           warnings
+    main-is:          Exercises.hs
+    build-depends:    base ^>=4.18.3.0
+    hs-source-dirs:   app/lesson01-values
+    default-language: Haskell2010
