@@ -11,6 +11,7 @@
 5. [05 レッスン 1: 値、型、関数](./05-lesson01-values.md)
 6. [06 レッスン 2: Bool と if then else](./06-lesson02-conditions.md)
 7. [07 レッスン 3: リスト、map、filter](./07-lesson03-lists.md)
+8. [08 レッスン 4: パターンマッチ](./08-lesson04-pattern-matching.md)
 
 ## このプロジェクトの現在地
 

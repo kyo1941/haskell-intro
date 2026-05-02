@@ -59,3 +59,17 @@ executable lesson03-lists-exercises
     build-depends:    base ^>=4.18.3.0
     hs-source-dirs:   app/lesson03-lists
     default-language: Haskell2010
+
+executable lesson04-pattern-matching
+    import:           warnings
+    main-is:          Main.hs
+    build-depends:    base ^>=4.18.3.0
+    hs-source-dirs:   app/lesson04-pattern-matching
+    default-language: Haskell2010
+
+executable lesson04-pattern-matching-exercises
+    import:           warnings
+    main-is:          Exercises.hs
+    build-depends:    base ^>=4.18.3.0
+    hs-source-dirs:   app/lesson04-pattern-matching
+    default-language: Haskell2010
