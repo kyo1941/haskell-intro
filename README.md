@@ -40,6 +40,12 @@ cabal run lesson03-lists
 レッスン 3 のサンプルを実行します。
 
 ```sh
+cabal run lesson04-pattern-matching
+```
+
+レッスン 4 のサンプルを実行します。
+
+```sh
 cabal repl
 ```
 
