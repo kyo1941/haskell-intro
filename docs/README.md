@@ -12,6 +12,7 @@
 6. [06 レッスン 2: Bool と if then else](./06-lesson02-conditions.md)
 7. [07 レッスン 3: リスト、map、filter](./07-lesson03-lists.md)
 8. [08 レッスン 4: パターンマッチ](./08-lesson04-pattern-matching.md)
+9. [09 レッスン 5: 代数的データ型](./09-lesson05-algebraic-data-types.md)
 
 ## このプロジェクトの現在地
 
